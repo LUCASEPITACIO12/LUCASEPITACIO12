@@ -12,7 +12,7 @@
 
 - 🔍 Smpre aprendendo Python, SQL and data analysis  
 - 🌎 Morando em Alagoas, Brasil  
-- ✉️ Contato: lucasfariasepitacio12@email.com
+- ✉️ Contato: lucasfariasepitacio12@gmail.com
 
 ---
 
