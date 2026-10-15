@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BC3D2F3&background=F6BEFF00&width=435&lines=Hello%2C+my+name+is+Lucas+Farias;I'm+26+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BC3D2F3&background=F6BEFF00&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Farias;Ci%C3%AAncia+de+Dados;Vigil%C3%A2ncia+em+Sa%C3%BAde;Seja+bem-vindo%21" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,6 +10,9 @@
 
 ### 👨‍💻 Sobre mim
 
+- 🩺 Enfermeiro, pós-graduado em Gestão em Saúde (PUC Minas)  
+- 💧 Atuo na vigilância da qualidade da água para consumo humano (VIGIAGUA/SISAGUA) na Secretaria de Estado da Saúde de Alagoas, usando Python para analisar e automatizar dados de monitoramento  
+- 📈 Concluí o EpiSUS Fundamental (Ministério da Saúde) e estudo Ciência de Dados na EBAC  
 - 🔍 Sempre aprendendo Python, SQL e análise de dados  
 - 🌎 Morando em Alagoas, Brasil  
 - ✉️ Contato: lucasfariasepitacio12@gmail.com
